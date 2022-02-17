@@ -7,7 +7,7 @@ class BuildMagic < Formula
   desc "An un-opinionated build automation tool."
   homepage "https://github.com/cmmorrow/build-magic"
   url "https://files.pythonhosted.org/packages/35/b2/b3605150fe0fe6bb9354d2f5a1e68db0d54851873965fd0f8db49068733d/build-magic-0.4.1.tar.gz"
-  sha256 "28ba6befba08ba28d9cf9201eaa4f54043cecb453a6bd1e52c4d3a46137e76be"
+  sha256 "2ab0ecc8f43af5c72b47a1e610743f1640a154516ce309c3ca8fc820b2dd9c88"
   license "MIT"
 
   depends_on "python3"
